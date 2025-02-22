@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coins
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1194465633
+    locked: 0
+  - name: WalkInFront
+    uniqueID: 629778619
+    locked: 0
+  - name: Collision
+    uniqueID: 948755365
+    locked: 0
+  - name: WaterPuddles
+    uniqueID: 1465629933
+    locked: 0
+  - name: Player
+    uniqueID: 449634375
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 1076177639
+    locked: 0
